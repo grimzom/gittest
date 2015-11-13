@@ -1,4 +1,8 @@
 # gittest
+
+Cliquer sur le fichier readme.md puis sur RAW pour le lire avec le bon formatage.
+
+
 Le projet présente une simple page html avec sa feuille de style.
 La page Html final contient 2 paragraphes ayant un style différent.
 
